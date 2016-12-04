@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:trailswehike/trailswehike.github.io.git
+	branch = master
