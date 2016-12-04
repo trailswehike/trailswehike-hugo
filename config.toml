@@ -1,4 +1,4 @@
-baseurl = "https://trails-we-hike.appspot.com/"
+baseurl = "https://trailswehike.github.io/"
 languageCode = "en-us"
 title = "Trails We Hike"
 theme = "hugo-creative-theme"
