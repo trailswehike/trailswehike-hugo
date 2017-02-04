@@ -3,7 +3,7 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
-hugo -b "https://trailswehike.github.io" --theme=hugo-creative-theme
+hugo -b "https://www.trailswehike.com" --theme=hugo-creative-theme
 
 # Go To Public folder
 cd public
